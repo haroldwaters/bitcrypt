@@ -5,7 +5,6 @@
 #include <fstream>
 #include <limits>
 #include <cmath>
-#include <bitset>
 using namespace std;
 
 //Outputs a single char to screen
